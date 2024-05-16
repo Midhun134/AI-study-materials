@@ -1,4 +1,4 @@
-# heading #
+# heading 
 AI study materials,
 london metropolitan University,
-# machine learning, AI, neural networ
+# machine learning, AI, neural networks
